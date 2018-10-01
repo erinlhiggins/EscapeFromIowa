@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ba824a4da288407dbc5d0bc66172423
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mazePrefab: {fileID: 114363085378317190, guid: 339b9c8a4150744f98e2b137d92110f4,
+      type: 2}
+  - playerPrefab: {fileID: 114095713782865966, guid: fa471811b22cd4e3a85eb3bbf2396b2d,
+      type: 2}
+  - winPrefab: {fileID: 114145868799318802, guid: 5a107a66e51bb403eac9b05b54b67152,
+      type: 2}
+  - endingPrefab: {fileID: 114187572275449252, guid: 3356a050903904ac6a9fab1b1684b7c6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
